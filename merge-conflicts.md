@@ -1,0 +1,1 @@
+This is to generate a merge conflict
