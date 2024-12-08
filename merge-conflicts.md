@@ -1,0 +1,1 @@
+This is the second file to merge, this will generate a merge conflict
